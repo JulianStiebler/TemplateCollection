@@ -1,0 +1,3 @@
+npm init
+npm install --save electron proton
+npm install --save create-proton-app

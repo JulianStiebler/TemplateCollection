@@ -1,0 +1,38 @@
+{
+    "name": "my-ionic-project",
+    "version": "1.0.0",
+    "description": "A simple Ionic application with Node.js backend",
+    "scripts": {
+      "ng": "ng",
+      "start": "ionic serve",
+      "build": "ionic build",
+      "test": "ng test",
+      "lint": "ng lint",
+      "e2e": "ng e2e"
+    },
+    "private": true,
+    "dependencies": {
+      "@angular/common": "~12.0.0",
+      "@angular/core": "~12.0.0",
+      "@angular/forms": "~12.0.0",
+      "@angular/platform-browser": "~12.0.0",
+      "@angular/platform-browser-dynamic": "~12.0.0",
+      "@ionic/angular": "^5.6.11",
+      "rxjs": "~6.6.0",
+      "tslib": "^2.3.0",
+      "zone.js": "~0.11.4"
+    },
+    "devDependencies": {
+      "@angular-devkit/build-angular": "~12.0.0",
+      "@angular/cli": "~12.0.0",
+      "@angular/compiler": "~12.0.0",
+      "@angular/compiler-cli": "~12.0.0",
+      "@ionic/angular-toolkit": "^4.0.0",
+      "@types/node": "^12.11.1",
+      "typescript": "~4.2.0"
+    },
+    "description": "An Ionic project",
+    "cordova": {},
+    "cordovaPlugins": [],
+    "cordovaPlatforms": []
+  }

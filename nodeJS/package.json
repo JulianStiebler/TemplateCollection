@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^31.0.0",
+    "flutter": "^0.0.5",
+    "ionic": "^5.4.16",
+    "react-native-cli": "^2.0.1"
+  }
+}
