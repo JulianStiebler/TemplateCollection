@@ -1,0 +1,12 @@
+{
+    "name": "electron-hero",
+    "version": "1.0.0",
+    "description": "An Electron app with a styled hero section.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron": "^31.0.0"
+    }
+}
