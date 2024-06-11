@@ -1,0 +1,22 @@
+{
+    "name": "electrorogue",
+    "version": "1.0.0",
+    "description": "Electron app with Bootstrap-based GUI",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [
+        "electron",
+        "bootstrap",
+        "gui"
+    ],
+    "author": "rogueEdit",
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^31.0.0"
+    },
+    "devDependencies": {
+        "electron-rebuild": "latest"
+    }
+}
